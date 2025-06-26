@@ -31,7 +31,7 @@ This project uses a **Convolutional Neural Network** to classify grayscale image
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/TejaswiniGit/Image_Classifier.git
-cd image-classifier-cnn
+cd image-classifier
 ```
 
 ### 2️⃣ Install Required Packages
