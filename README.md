@@ -61,5 +61,5 @@ I'm **Tejaswini Thungathoorthi**, a Computer Science student with a strong inter
 
 ## 📬 Contact
 
-- 📧 Email: [tejaswini@gmail.com]  
+- 📧 Email: [tejaswini17109@gmail.com]  
 - 💼 LinkedIn: [https://www.linkedin.com/in/tejaswini-thungathoorthi-9076b2295/]
